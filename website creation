@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>STELLANTIS</title>
+</head>
+<body>
+    <header>
+        <h1>STELLANTIS</h1>
+        <nav>
+            <ul>
+                <li><a href="#home">Home</a></li>
+                <li><a href="#about">About Us</a></li>
+                <li><a href="#cars">Our Cars</a></li>
+                <li><a href="#contact">Contact Us</a></li>
+                <li><a href="#logo">logo</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="home">
+        <h2>Welcome to Stellantis</h2>
+        <p>the latest   models is updated on stellantis from 2017 untill the future generation can be developed more and more.</p>
+        <img src="car_image.jpg" alt="Car image">
+    </section>
+
+    <section id="about">
+        <h2>About Us</h2>
+        <p>We are a leading car manufacturer committed to quality and innovation.</p>
+        <p>Stellantis is a global automotive manufacturing company formed in 2021 through the merger of Fiat Chrysler Automobiles and PSA Peugeot-Citroën. It is one of the world's largest automotive groups, with a wide range of brands including Chrysler, Dodge, Jeep, Ram, Alfa Romeo, Fiat, Peugeot, Citroën, Opel, and Vauxhall.</p>
+    </section>
+
+    <section id="cars">
+        <h2>STELLANTIS TOP 5  CARS</h2>
+        <ul>
+            <li>Model 1:Volkswagen</li>
+            <li>about model: implement on 2019</li>
+            <li>Model 2:Mercedes-Benz</li>
+            <li> about model 2:implemented on 2021</li>
+            <li>Model 3:kia</li>
+            <li> about model 3:implemented on 2022</li>
+            <li>Model 4:lotus</li>
+            <li> about model 4:implemented on 2024</li>
+            <li>Model 5:BMW</li>
+            <li> about model 5:implemented on 2025</li>
+        </ul>
+    </section>
+
+    <section id="contact">
+        <h2>Contact Us</h2>
+        <p>Get in touch with our team stellantis.</p>
+        <form>
+            <label for="name">Name:</label>
+            <input type="text" id="name" name="name">
+            <br>
+            <label for="email">Email:</label>
+            <input type="email" id="email" name="email">
+            <br>
+            <label for="convey the issue">Issue:</label>
+            <textarea id="issue" name="issue"></textarea>
+            <br>
+            <label for="report any cause">report:</label>
+            <textarea id="report" name="report"></textarea>
+            <input type="submit" value="Submit">
+        </form>
+    </section>
+    <section id="offers">
+        <h2>offers</h2>
+        <ul>
+            <li>2019:offers from 5%-10% </li>
+            <li>2020: offers from 12%-21%</li>
+            <li>2021-2023: offers from 22%-30%</li>
+            <li>2023-2025: offers from 35%-50%</li>
+        </ul>
+    </section>
+    <p> In future stellantis develop and implement the cars with perfect manufacturing products</p>
+
+    <footer>
+        &copy; 2024-2025 stellantis
+    </footer>
+</body>
+</html>
